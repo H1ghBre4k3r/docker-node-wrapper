@@ -29,6 +29,7 @@
         "typescript": "^4.0.2"
     },
     "dependencies": {
+        "docker-modem": "^2.1.4",
         "logsen": "^2.0.1"
     }
 }
