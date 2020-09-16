@@ -6,7 +6,8 @@
     "scripts": {
         "start": "node .",
         "build": "tsc",
-        "build:start": "npm run build && npm run start"
+        "build:start": "npm run build && npm run start",
+        "lint": "eslint ./src"
     },
     "repository": {
         "type": "git",
